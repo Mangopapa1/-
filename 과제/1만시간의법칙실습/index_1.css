@@ -1,0 +1,17 @@
+#app {
+    background-color: #5B2386;
+    text-align: center;
+}
+
+.tit-main {
+    position: relative;
+    align-content: center;
+}
+
+.tit-main .tit-img {
+    position: absolute;
+    width: 564px;
+    height: 112px;
+    left: 678px;
+    top: 273px;
+}
